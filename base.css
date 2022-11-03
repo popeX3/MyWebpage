@@ -1,0 +1,94 @@
+/*done in May,2022
+ * Trevor Bohl*/
+html.index{
+	background-color: floralwhite;
+	background-image: url(https://orig00.deviantart.net/9be5/f/2009/222/3/a/ms_paint_cat_by_nickatina14.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+html.thusFar{
+	background-image: url(http://th.bing.com/th/id/R.0de1ea0f6e5e349c2fb0e10d2731af83?rik=Xp9KQqOSunRl%2bQ&riu=http%3a%2f%2forig09.deviantart.net%2f8364%2ff%2f2014%2f053%2ff%2f9%2ffree_space_galaxy_texture_by_lyshastra-d77gofi.png&ehk=drGJMYsdcCfNtQ6oRBG%2fNeIvr6dOhj9vZSbM4YwYXzI%3d&risl=1&pid=ImgRaw&r=0);
+}
+
+html.futureGoals{
+	background-image: url(https://wallpapercave.com/wp/wp2343899.jpg);
+}	
+
+html.snail_zone{
+	background-image: url("https://www.publicdomainpictures.net/pictures/40000/velka/leaf-13674674021Ns.jpg");
+}
+
+form{
+	position: absolute;
+	background-color: darkgreen;
+	color: black;
+}
+
+.snail_stuff{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+.not_snail_stuff{
+	background: rgb(0,100,20,0.3);
+}
+
+.snailForm{
+	background: rgb(0,45,0,0.2);
+}
+
+.snail{
+	position: relative;
+	top: 3%;
+	left: 10px;
+	width: 10%;
+}
+
+button.spin{
+	position: relative;
+	bottom: 30px;
+	left: 10px;
+}
+
+h1.title{
+	position: relative;
+	left: 31%;
+}
+
+.index{
+	position: relative;
+	left: 30px;
+}
+
+ul{
+}
+
+li{
+	line-height: 1;
+}
+
+.pList{
+	background: rgb(0,0,15,0.4);
+	color: darkcyan;
+	border: 3px solid black;
+}
+
+.gList{
+	background: rgb(255,60,190,0.5);
+	background-size: 1.5rem 1.5rem;
+	color: black;
+	font-weight: 900;
+	border: 3px solid rgb(10,0,0);
+}
+
+h4{
+	font-family: "Lucida Handwriting", Cursive;
+}
+
+h5{
+	position: absolute;
+	top: 666px;
+	left: 20px;
+}
